@@ -32,16 +32,25 @@ A blazing-fast **PHP Search API** and **Termux CLI Tool** for searching all **22
 - ⚡ No Database Required
 - 📱 Android Compatible
 
-  #📸 Screenshot 
+---
+
+## Home Screen
+
 <p align="center">
+<img src="assets/home.jpg" width="900">
+</p>
 
-<img src="assets/home.jpg" width="30%" alt="Home">
+## Search Results
 
-<img src="assets/search.jpg" width="30%" alt="Search">
+<p align="center">
+<img src="assets/search.jpg" width="900">
+</p>
 
-<img src="assets/list.jpg" width="30%" alt="List">
+## Show All 224 MLAs
 
-
+<p align="center">
+<img src="assets/list.jpg" width="900">
+</p>
 ---
 
 # 📂 Installation (Termux)
