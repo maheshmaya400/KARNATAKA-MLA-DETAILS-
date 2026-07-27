@@ -1,4 +1,4 @@
-# Karnataka MLA Search API 🇮🇳
+# Karnataka MLA NUMBER DETAILS 🇮🇳 💛♥️
 
 <p align="center">
   <img src="assets/banner.jpg" width="100%" alt="Karnataka MLA Search API Banner">
@@ -70,13 +70,13 @@ pkg install php git -y
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/karnataka-mla-search-api.git
+git clone https://github.com/maheshmaya400/KARNATAKA-MLA-DETAILS-.git
 ```
 
 ## Open Project
 
 ```bash
-cd karnataka-mla-search-api
+cd KARNATAKA-MLA-DETAILS-
 ```
 
 ## Start API
@@ -98,33 +98,33 @@ http://127.0.0.1:8000/search.php?q=raichur
 Run Interactive Mode
 
 ```bash
-php termux_tool.php
+php termux.php
 ```
 
 Quick Search
 
 ```bash
-php termux_tool.php search siddaramaiah
+php termux.php search siddaramaiah
 ```
 
 ```bash
-php termux_tool.php search raichur
+php termux.php search raichur
 ```
 
 ```bash
-php termux_tool.php search bjp
+php termux.php search bjp
 ```
 
 Show All MLAs
 
 ```bash
-php termux_tool.php list
+php termux.php list
 ```
 
 Lookup by ID
 
 ```bash
-php termux_tool.php id 53
+php termux.php id 53
 ```
 
 ---
