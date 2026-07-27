@@ -31,8 +31,8 @@ A blazing-fast **PHP Search API** and **Termux CLI Tool** for searching all **22
 - 📦 Pure PHP
 - ⚡ No Database Required
 - 📱 Android Compatible
-- 📸 Screenshots
 
+  #📸 Screenshot 
 <p align="center">
 
 <img src="assets/home.jpg" width="30%" alt="Home">
